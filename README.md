@@ -1,6 +1,4 @@
-# Samantha Ming's Presentation Slide
-
-There's not much value in the slides, it's all in the talk! Oops, I mean slide - no 's'. Yes, this is your 1-slide presentation. It's just me dropping my truth and sharing my thoughts 💪
+# Samantha Ming's Press Kit
 
 ## Invite Me To Speak 👩🏻‍🏫
 
@@ -8,11 +6,37 @@ I love sharing what I've learned. I've spoken at high schools, colleges, and tec
 
 Learn more about my previous [speaking events here](https://www.samanthaming.com/invite-me-to-speak) and invite me to speak!
 
-## Say Hello 👋
+➡️ Contact me <sam@samanthaming.com>
 
-Follow me on social media for weekly JS, HTML, CSS tidbits!
+## Press Kit
 
-- Twitter: [@samantha_ming](https://twitter.com/samantha_ming)  
-- Instagram: [@samanthaming](https://www.instagram.com/SamanthaMing/)  
-- Facebook: [@hi.samanthaming](https://www.facebook.com/hi.samanthaming/)  
-- Medium: [@samanthaming](https://medium.com/@samanthaming)
+### Biography
+
+Samantha Ming is a Front End Developer. Her career switch from business to programming has made her a huge advocate for inspiring others to get into tech. In 2018, She started sharing her web programming knowledge in her weekly Code Tidbits series. Her success has led her to become a Google Developer Expert and a writer for DailyJS.
+
+### Basic Info
+
+**Full Name**  
+Samantha Ming
+
+**Website**  
+[samanthaming.com](https://www.samanthaming.com/)
+
+**Social**  
+- [twitter.com/samantha_ming](https://twitter.com/samantha_ming)
+- [instagram.com/samanthaming](https://www.instagram.com/SamanthaMing/)
+- [facebook.com/hi.samanthaming](https://www.facebook.com/hi.samanthaming/)
+- [medium.com/@samanthaming](https://medium.com/@samanthaming)
+- [dev.to/samanthaming](https://dev.to/samanthaming)
+
+**Presentation Slide**
+
+- [PDF version](https://github.com/samanthaming/powerpoint-slide/blob/master/Samantha_Ming_PDF.pdf)
+- [KEYNOTE (Mac) version](https://github.com/samanthaming/powerpoint-slide/blob/master/Samantha_Ming_KEYNOTE_MAC.key)
+- [PPTX (PC) version](https://github.com/samanthaming/powerpoint-slide/blob/master/Samantha_Ming_PPTX_PC.pptx)
+
+**Photo**  
+
+![Samantha Ming Photo - Square](samantha-ming-square.jpg?raw=true)
+
+![Samantha Ming Photo - Circle](samantha-ming-circle.png?raw=true)

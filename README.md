@@ -2,7 +2,7 @@
 
 ## Invite Me To Speak 👩🏻‍🏫
 
-I love sharing what I've learned. I've spoken at high schools, colleges, and tech companies. From my experience on how I grew my personal brand to 20k+ within a year OR how I switched careers into tech without a CS degree OR how kindness have made me more successful. My goal is to bring value, motivate action, and inspire kindness in your audience. 
+I love sharing what I've learned. I've spoken at high schools, colleges, and tech companies. From my experience on how I grew my personal brand to 20k+ within a year OR how I switched careers into tech without a CS degree OR how kindness has made me more successful. My goal is to bring value, motivate action, and inspire kindness in your audience. 
 
 Learn more about my previous [speaking events here](https://www.samanthaming.com/invite-me-to-speak) and invite me to speak!
 
@@ -31,9 +31,9 @@ Samantha Ming
 
 **Presentation Slide**
 
-- [PDF version](https://github.com/samanthaming/powerpoint-slide/blob/master/Samantha_Ming_PDF.pdf)
 - [KEYNOTE (Mac) version](https://github.com/samanthaming/powerpoint-slide/blob/master/Samantha_Ming_KEYNOTE_MAC.key)
 - [PPTX (PC) version](https://github.com/samanthaming/powerpoint-slide/blob/master/Samantha_Ming_PPTX_PC.pptx)
+- [PDF version](https://github.com/samanthaming/powerpoint-slide/blob/master/Samantha_Ming_PDF.pdf)
 
 **Photo**  
 

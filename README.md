@@ -12,7 +12,7 @@ Learn more about my previous [speaking events here](https://www.samanthaming.com
 
 ### Biography
 
-Samantha Ming is a Front End Developer. Her career switch from business to programming has made her a huge advocate for inspiring others to get into tech. In 2018, she started sharing her web programming knowledge in her weekly Code Tidbits series. Her success has led her to become a Google Developer Expert and a writer for DailyJS.
+Samantha Ming is a Frontend Engineer at GitLab. Her career switch from business to programming has made her a huge advocate for inspiring others to get into tech. In 2018, she started sharing her web programming knowledge in her weekly Code Tidbits series. Her success has led her to become a Google Developer Expert and a writer for DailyJS.
 
 ### Basic Info
 
